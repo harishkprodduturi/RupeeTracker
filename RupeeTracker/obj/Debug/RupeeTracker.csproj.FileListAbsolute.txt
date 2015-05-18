@@ -1,0 +1,6 @@
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\bin\RupeeTracker.dll.config
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\bin\RupeeTracker.dll
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\bin\RupeeTracker.pdb
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\obj\Debug\RupeeTracker.csprojResolveAssemblyReference.cache
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\obj\Debug\RupeeTracker.dll
+c:\users\harish.harish-pc\documents\visual studio 2013\Projects\RupeeTracker\RupeeTracker\obj\Debug\RupeeTracker.pdb
